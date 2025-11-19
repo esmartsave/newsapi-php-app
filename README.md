@@ -1,6 +1,10 @@
-# NewsAPI PHP App
+# NewsAPI
+This is a simple PHP app link to browse top headlines and search news using NewsAPI.org.
 
-This is a simple PHP app to browse top headlines and search news using NewsAPI.org.
+### Browse for more news? click an external link below:
+https://www.esmartsave.com/newsAPI/index.php
+
+
 
 ## Setup
 
@@ -8,9 +12,6 @@ This is a simple PHP app to browse top headlines and search news using NewsAPI.o
 # using bash
 git clone https://github.com/yourname/newsapi-php-app.git
 cd newsapi-php-app
-
-### Browse for more news? click an external link below:
-https://www.esmartsave.com/newsAPI/index.php
 
 ### Github:
 GitHub can only for static hosting only and it only support CSS, HTML, JavaScript, Images and static files.
