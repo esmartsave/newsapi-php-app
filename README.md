@@ -11,3 +11,9 @@ cd newsapi-php-app
 
 ### you can also check and browse over here too:
 https://www.esmartsave.com/newsAPI/index.php
+
+### Github:
+GitHub can only for static hosting only and it only support CSS, HTML, JavaScript, Images and static files.
+
+
+### GitHub Pages does not support: PHP, Python, Node.js and Databases
