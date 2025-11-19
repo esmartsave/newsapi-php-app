@@ -9,7 +9,7 @@ This is a simple PHP app to browse top headlines and search news using NewsAPI.o
 git clone https://github.com/yourname/newsapi-php-app.git
 cd newsapi-php-app
 
-### you can also check and browse over here too:
+### Browse for more news? click an external link below:
 https://www.esmartsave.com/newsAPI/index.php
 
 ### Github:
