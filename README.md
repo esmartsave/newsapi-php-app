@@ -4,12 +4,11 @@ This is a simple PHP app link to browse top headlines and search news using News
 ### Browse for more news? click an external link below:
 https://www.esmartsave.com/newsAPI/index.php
 
-### 1. Clone the repository
-# using bash
+### cloning and using bash
 git clone https://github.com/yourname/newsapi-php-app.git
 cd newsapi-php-app
 
-### Github:
+### Github specifications:
 GitHub can only for static hosting only and it only support CSS, HTML, JavaScript, Images and static files.
 
-### GitHub Pages does not support: PHP, Python, Node.js and Databases
+### _GitHub Pages does not support: PHP, Python, Node.js and Databases_
